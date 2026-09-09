@@ -1,3 +1,4 @@
 # game
 Make the first game
-Author - Sayantan Biswas
+Author - Sayantan Biswas (KGEC)
+
